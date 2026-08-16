@@ -14,6 +14,7 @@ Welcome to the public reference guide for the 4PILLARS Policy Commons.
 | Understand who makes decisions | [Governance Guide](Governance-Guide.md) |
 | Understand founder volunteer service and any future pay | [Founder Volunteer & Future Compensation](../governance/FOUNDER-VOLUNTEER-AND-COMPENSATION.md) |
 | Understand the funding and smart-contract approach | [Public Funding & Smart Contracts](Public-Funding-and-Smart-Contracts.md) |
+| Find the dedicated pillar repositories | [Repository Directory](../ecosystem/REPOSITORIES.md) |
 | Find a quick answer | [Frequently Asked Questions](FAQ.md) |
 
 ## The four pillars
