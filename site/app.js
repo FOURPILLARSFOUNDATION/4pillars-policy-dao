@@ -13,8 +13,7 @@ nav?.querySelectorAll('a').forEach((link) => {
   });
 });
 
-// Replace this once the repository exists, e.g. https://github.com/4pillars/policy-commons.
-const repositoryUrl = 'https://github.com/';
+const repositoryUrl = 'https://github.com/FOURPILLARSFOUNDATION/4pillars-policy-dao';
 document.querySelectorAll('[data-repo-link]').forEach((link) => {
   link.href = repositoryUrl;
 });
