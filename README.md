@@ -13,6 +13,7 @@ An open-source policy reform commons for developing evidence-backed model polici
 | [Policy library](policies/README.md) | Versioned, reviewable model-policy modules |
 | [Governance](governance/DAO-CONSTITUTION.md) | A non-token-first constitutional blueprint for member decision-making |
 | [Integrity](integrity/README.md) | Evidence standards and conflict-of-interest controls |
+| [Founder volunteer & compensation policy](governance/FOUNDER-VOLUNTEER-AND-COMPENSATION.md) | Unpaid founding service, expense boundaries, and independent approval before future pay |
 | [Operations](operations/POLICY-LIFECYCLE.md) | How an idea becomes a reviewed public proposal |
 | [Public wiki](wiki/Home.md) | Plain-language guide for the public and new contributors |
 | [Outreach pack](outreach/README.md) | Crowdfunding and responsible smart-contract materials |
