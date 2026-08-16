@@ -1,0 +1,37 @@
+name: Policy proposal
+description: Propose a research-backed policy module or amendment.
+title: "policy: "
+labels: ["draft", "policy"]
+body:
+  - type: textarea
+    attributes:
+      label: Problem and jurisdiction
+      description: What specific problem, population, and government level does this address?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Proposed mechanism
+      description: Describe the legal, administrative, budgetary, or technical change.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Evidence and sources
+      description: Link primary sources and describe uncertainty or contrary evidence.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Effects, risks, and alternatives
+      description: Include cost, rights, privacy, implementation, and enforcement impacts.
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Contributor confirmations
+      options:
+        - label: I disclosed material conflicts and did not include personal or restricted data.
+          required: true
+        - label: I understand this is not a vehicle for campaign coordination or evading legal requirements.
+          required: true
