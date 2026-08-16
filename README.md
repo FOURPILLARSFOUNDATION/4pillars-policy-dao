@@ -14,6 +14,8 @@ An open-source policy reform commons for developing evidence-backed model polici
 | [Governance](governance/DAO-CONSTITUTION.md) | A non-token-first constitutional blueprint for member decision-making |
 | [Integrity](integrity/README.md) | Evidence standards and conflict-of-interest controls |
 | [Operations](operations/POLICY-LIFECYCLE.md) | How an idea becomes a reviewed public proposal |
+| [Public wiki](wiki/Home.md) | Plain-language guide for the public and new contributors |
+| [Outreach pack](outreach/README.md) | Crowdfunding and responsible smart-contract materials |
 | [Website](site/index.html) | A dependency-free public starter site |
 
 ## Initial policy workstreams
