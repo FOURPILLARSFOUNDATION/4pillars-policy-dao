@@ -28,6 +28,16 @@ An open-source policy reform commons for developing evidence-backed model polici
 
 The first four workstreams are deliberately framed as research and model-policy questions. A policy is not deemed adopted merely because it is popular; it must pass the evidence, rights, feasibility, and implementation reviews described in the [policy lifecycle](operations/POLICY-LIFECYCLE.md).
 
+## Dedicated pillar repositories
+
+| Repository | Focus |
+| --- | --- |
+| [Housing Capital](https://github.com/FOURPILLARSFOUNDATION/4pillars-housing-capital) | Homeowner liquidity, affordability, community wealth, and safeguards against extraction. |
+| [Automation & Public Revenue](https://github.com/FOURPILLARSFOUNDATION/4pillars-automation-public-revenue) | Public-capacity and resilience models connected to automation-driven productivity. |
+| [Retirement Resilience](https://github.com/FOURPILLARSFOUNDATION/4pillars-retirement-resilience) | Retirement income, transition protections, and long-run benefit resilience. |
+| [Public Integrity](https://github.com/FOURPILLARSFOUNDATION/4pillars-public-integrity) | Disclosure, recusal, due process, and independent ethics enforcement. |
+| [Civic Pledge Platform](https://github.com/FOURPILLARSFOUNDATION/4pillars-civic-pledge-platform) | A research-only, compliance-first specification for conditioned civic-fundraising workflows; it does not move money. |
+
 ## Quick start
 
 No build step is required for the starter site.
