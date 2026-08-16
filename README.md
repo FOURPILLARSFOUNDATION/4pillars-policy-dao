@@ -18,6 +18,7 @@ An open-source policy reform commons for developing evidence-backed model polici
 | [Public wiki](wiki/Home.md) | Plain-language guide for the public and new contributors |
 | [Outreach pack](outreach/README.md) | Crowdfunding and responsible smart-contract materials |
 | [Website](site/index.html) | A dependency-free public starter site |
+| [Ecosystem directory](ecosystem/REPOSITORIES.md) | Dedicated pillar repositories, contributor entry points, and cross-repo routing |
 
 ## Initial policy workstreams
 
@@ -37,6 +38,8 @@ The first four workstreams are deliberately framed as research and model-policy 
 | [Retirement Resilience](https://github.com/FOURPILLARSFOUNDATION/4pillars-retirement-resilience) | Retirement income, transition protections, and long-run benefit resilience. |
 | [Public Integrity](https://github.com/FOURPILLARSFOUNDATION/4pillars-public-integrity) | Disclosure, recusal, due process, and independent ethics enforcement. |
 | [Civic Pledge Platform](https://github.com/FOURPILLARSFOUNDATION/4pillars-civic-pledge-platform) | A research-only, compliance-first specification for conditioned civic-fundraising workflows; it does not move money. |
+
+Read the [repository directory and contributor instructions](ecosystem/REPOSITORIES.md), including a [worked cross-repository workflow](ecosystem/CROSS-REPO-WORKFLOW.md) for proposals that touch more than one pillar.
 
 ## Quick start
 
